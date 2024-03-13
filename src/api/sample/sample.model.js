@@ -1,4 +1,4 @@
-const con = require("../../../db_config/db_connection");
+// const con = require("../../../db_config/db_connection");
 const sql = require("./sample.sql");
 
 class Sample {
